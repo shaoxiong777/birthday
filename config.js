@@ -30,7 +30,7 @@ var config = {
         turn_on: "老姐点这",
         play: "音乐",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "少点东西?",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
